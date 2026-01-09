@@ -1,0 +1,11 @@
+Document Analysis: SCFP 4250.pdf
+================================================================================
+
+Total pages: 246
+Sections found: 1
+
+1. Complete_Agreement
+   Pages: 1-246 (246 pages)
+   Confidence: 50%
+   Header: Full document
+

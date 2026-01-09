@@ -1,0 +1,11 @@
+Document Analysis: scfp_1500_official_text.pdf
+================================================================================
+
+Total pages: 416
+Sections found: 1
+
+1. Complete_Agreement
+   Pages: 1-416 (416 pages)
+   Confidence: 50%
+   Header: Full document
+

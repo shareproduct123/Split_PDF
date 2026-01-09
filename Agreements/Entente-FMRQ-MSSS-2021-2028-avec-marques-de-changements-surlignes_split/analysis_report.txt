@@ -1,0 +1,16 @@
+Document Analysis: Entente-FMRQ-MSSS-2021-2028-avec-marques-de-changements-surlignes.pdf
+================================================================================
+
+Total pages: 74
+Sections found: 2
+
+1. TOC
+   Pages: 2-29 (28 pages)
+   Confidence: 100%
+   Header: Table des matières
+
+2. Articles
+   Pages: 30-74 (45 pages)
+   Confidence: 85%
+   Header: Section I –  Dispositions générales
+

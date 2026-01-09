@@ -1,0 +1,11 @@
+Document Analysis: SSPHQ.pdf
+================================================================================
+
+Total pages: 95
+Sections found: 1
+
+1. Complete_Agreement
+   Pages: 1-95 (95 pages)
+   Confidence: 50%
+   Header: Full document
+

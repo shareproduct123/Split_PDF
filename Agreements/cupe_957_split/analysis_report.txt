@@ -1,0 +1,11 @@
+Document Analysis: cupe_957.pdf
+================================================================================
+
+Total pages: 179
+Sections found: 1
+
+1. Annexe
+   Pages: 70-179 (110 pages)
+   Confidence: 95%
+   Header: 124 125ANNEXE B
+

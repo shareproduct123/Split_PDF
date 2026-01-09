@@ -1,0 +1,11 @@
+Document Analysis: 2000- CUPE.pdf
+================================================================================
+
+Total pages: 276
+Sections found: 1
+
+1. Complete_Agreement
+   Pages: 1-276 (276 pages)
+   Confidence: 50%
+   Header: Full document
+
